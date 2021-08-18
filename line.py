@@ -70,7 +70,7 @@ msg = {"message": f"""
 resp = requests.post(uri,headers=header,data=msg)
 
 
-print('Wait.....')
+print('โปรดรอสักครู่')
 
 while True:
 
